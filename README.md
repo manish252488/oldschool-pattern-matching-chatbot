@@ -1,6 +1,6 @@
 # JarvisPy (Voice Command Windows Assistant)
 
-**JarvisPy** is a personal **learning project** created by **Manish Singh** to explore and improve Python skills.  
+**JarvisPy** is a personal **learning project** to explore and improve Python skills.  
 It is a Windows-based voice assistant application with a GUI interface that allows you to interact with your system using voice commands.
 
 ---
